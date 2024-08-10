@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://haridasp.netlify.app/](https://haridasp.netlify.app/)
 
-- 💬 Ask me about **JavaScript, C, CPP, Java, PHP, React.js, Redux, Git, Github**
+- 💬 Ask me about **JavaScript, C, CPP, PHP, React.js, Redux, Git, Github**
 
 - 📫 How to reach me **haridaspawar0203@gmail.com**
 
