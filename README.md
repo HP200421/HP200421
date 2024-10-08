@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/haridasp20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haridasp20" height="30" width="40" /></a>
 </p>
-<p align="left">
+<p align="left" style={{border: 2px solid red}}>
 <a href="https://app.daily.dev/haridaspawar"><img src="https://api.daily.dev/devcards/v2/rrF6sPnoVMENupoGAwGHU.png?type=wide&r=gvv" width="652" alt="Haridas Pawar's Dev Card"/></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
