@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hp200421&label=Profile%20views&color=0e75b6&style=flat" alt="hp200421" /> </p>
 
-- 🌱 I’m currently learning **ExpressJS**.
+- 🌱 I’m currently learning **Docker**.
 
 - 👨‍💻 All of my projects are available at [https://haridasp.netlify.app/](https://haridasp.netlify.app/)
 
