@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, C, CPP, React.js, Node.js, Express, Redux, Git, Github**
 
-- 📫 How to reach me **haridaspawar2120@gmail.com**
+- 📫 How to reach me **haridaspawar0203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
