@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haridas Pawar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://haridasp.netlify.app/](https://haridasp.netlify.app/)
-
 - 💬 Ask me about **JavaScript, CPP, React.js, Node.js, Express.js, Redux, Git**
 
 - 📫 How to reach me **haridaspawar2120@gmail.com**
