@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haridas Pawar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 💬 Ask me about **JavaScript, CPP, Python,  React.js, Node.js, Express.js, Redux, Git**
+- 💬 Ask me about **JavaScript, CPP, Python, React.js, Node.js, Express.js, Redux, Git**
 
 - 📫 How to reach me **haridaspawar2120@gmail.com**
 
